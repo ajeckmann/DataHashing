@@ -1,0 +1,237 @@
+stringPath is /home/nios/Ari/HashFile/src//InputFiles/VZB_bi_SF000886_2021309.csv
+first line is: data_transaction_code,data_transaction_file_date,contract_number,contractor_service_request_number,contractor_invoice_level_account_number,contractor_service_level_account_number,agency_task_order_num,contracting_officer_representative_email_address,service_order_completion_date,data_transaction_line_sequence_number,agency_service_request_number_1,agency_service_request_number_2,unique_billing_identifier,agency_hierarchy_code,contract_line_item_number,clin_description,individual_case_basis_code_number,quantity,fully_loaded_price_code,charging_frequency_and_sre_element_code,charging_unit_code,base_line_item_price,iconectiv_nsc,terminating_iconectiv_nsc,building,bandwidth_code,billing_telephone_number,contractor_transport_circuit_number,phone_number_toll_free_and_700_number,card_number,alternate_code_description,directed_to_number,labor_email_address,body_detail_reserved_01,body_detail_reserved_02,body_detail_reserved_03,body_detail_reserved_04,body_detail_reserved_05,body_detail_reserved_06,body_detail_reserved_07,body_detail_reserved_08,body_detail_reserved_09,body_detail_reserved_10,body_detail_reserved_11,body_detail_reserved_12,body_detail_reserved_13,body_detail_reserved_14,body_detail_reserved_15,contractor_invoice_number,contractor_invoice_date,billing_period,billing_begin_date,billing_end_date,band_amount,service_connect_start_date_and_time,service_connect_end_date_and_time,billing_authorization_code,originating_number,originating_location_city,originating_location_state,originating_location_county,originating_location_country,originating_jurisdiction_code,terminating_number,terminating_location_city,terminating_location_state,terminating_location_county,terminating_location_country,terminating_jurisdiction_code,usage_event_id,billing_quantity,billing_reserved_01,billing_reserved_02,billing_reserved_03,billing_reserved_04,billing_reserved_05,billing_reserved_06,billing_reserved_07,billing_reserved_08,billing_reserved_09,billing_reserved_10,billing_reserved_11,billing_reserved_12,billing_reserved_13,billing_reserved_14,billing_reserved_15,agency_agf_percent_rate,contractor_charge_waiver_code,total_line_item_amount,agf_amount,billed_aggregated_tax,line_net_amount
+
+
+firstLine Values Array:[data_transaction_code, data_transaction_file_date, contract_number, contractor_service_request_number, contractor_invoice_level_account_number, contractor_service_level_account_number, agency_task_order_num, contracting_officer_representative_email_address, service_order_completion_date, data_transaction_line_sequence_number, agency_service_request_number_1, agency_service_request_number_2, unique_billing_identifier, agency_hierarchy_code, contract_line_item_number, clin_description, individual_case_basis_code_number, quantity, fully_loaded_price_code, charging_frequency_and_sre_element_code, charging_unit_code, base_line_item_price, iconectiv_nsc, terminating_iconectiv_nsc, building, bandwidth_code, billing_telephone_number, contractor_transport_circuit_number, phone_number_toll_free_and_700_number, card_number, alternate_code_description, directed_to_number, labor_email_address, body_detail_reserved_01, body_detail_reserved_02, body_detail_reserved_03, body_detail_reserved_04, body_detail_reserved_05, body_detail_reserved_06, body_detail_reserved_07, body_detail_reserved_08, body_detail_reserved_09, body_detail_reserved_10, body_detail_reserved_11, body_detail_reserved_12, body_detail_reserved_13, body_detail_reserved_14, body_detail_reserved_15, contractor_invoice_number, contractor_invoice_date, billing_period, billing_begin_date, billing_end_date, band_amount, service_connect_start_date_and_time, service_connect_end_date_and_time, billing_authorization_code, originating_number, originating_location_city, originating_location_state, originating_location_county, originating_location_country, originating_jurisdiction_code, terminating_number, terminating_location_city, terminating_location_state, terminating_location_county, terminating_location_country, terminating_jurisdiction_code, usage_event_id, billing_quantity, billing_reserved_01, billing_reserved_02, billing_reserved_03, billing_reserved_04, billing_reserved_05, billing_reserved_06, billing_reserved_07, billing_reserved_08, billing_reserved_09, billing_reserved_10, billing_reserved_11, billing_reserved_12, billing_reserved_13, billing_reserved_14, billing_reserved_15, agency_agf_percent_rate, contractor_charge_waiver_code, total_line_item_amount, agf_amount, billed_aggregated_tax, line_net_amount]
+2
+6
+26
+29
+31
+32
+48
+57
+columns to hash [2, 6, 26, 29, 31, 32, 48, 57]
+0: data_transaction_code
+1: data_transaction_file_date
+2: contract_number
+3: contractor_service_request_number
+4: contractor_invoice_level_account_number
+5: contractor_service_level_account_number
+6: agency_task_order_num
+7: contracting_officer_representative_email_address
+8: service_order_completion_date
+9: data_transaction_line_sequence_number
+10: agency_service_request_number_1
+11: agency_service_request_number_2
+12: unique_billing_identifier
+13: agency_hierarchy_code
+14: contract_line_item_number
+15: clin_description
+16: individual_case_basis_code_number
+17: quantity
+18: fully_loaded_price_code
+19: charging_frequency_and_sre_element_code
+20: charging_unit_code
+21: base_line_item_price
+22: iconectiv_nsc
+23: terminating_iconectiv_nsc
+24: building
+25: bandwidth_code
+26: billing_telephone_number
+27: contractor_transport_circuit_number
+28: phone_number_toll_free_and_700_number
+29: card_number
+30: alternate_code_description
+31: directed_to_number
+32: labor_email_address
+33: body_detail_reserved_01
+34: body_detail_reserved_02
+35: body_detail_reserved_03
+36: body_detail_reserved_04
+37: body_detail_reserved_05
+38: body_detail_reserved_06
+39: body_detail_reserved_07
+40: body_detail_reserved_08
+41: body_detail_reserved_09
+42: body_detail_reserved_10
+43: body_detail_reserved_11
+44: body_detail_reserved_12
+45: body_detail_reserved_13
+46: body_detail_reserved_14
+47: body_detail_reserved_15
+48: contractor_invoice_number
+49: contractor_invoice_date
+50: billing_period
+51: billing_begin_date
+52: billing_end_date
+53: band_amount
+54: service_connect_start_date_and_time
+55: service_connect_end_date_and_time
+56: billing_authorization_code
+57: originating_number
+58: originating_location_city
+59: originating_location_state
+60: originating_location_county
+61: originating_location_country
+62: originating_jurisdiction_code
+63: terminating_number
+64: terminating_location_city
+65: terminating_location_state
+66: terminating_location_county
+67: terminating_location_country
+68: terminating_jurisdiction_code
+69: usage_event_id
+70: billing_quantity
+71: billing_reserved_01
+72: billing_reserved_02
+73: billing_reserved_03
+74: billing_reserved_04
+75: billing_reserved_05
+76: billing_reserved_06
+77: billing_reserved_07
+78: billing_reserved_08
+79: billing_reserved_09
+80: billing_reserved_10
+81: billing_reserved_11
+82: billing_reserved_12
+83: billing_reserved_13
+84: billing_reserved_14
+85: billing_reserved_15
+86: agency_agf_percent_rate
+87: contractor_charge_waiver_code
+88: total_line_item_amount
+89: agf_amount
+90: billed_aggregated_tax
+91: line_net_amount
+2
+6
+26
+29
+31
+32
+48
+57
+stringPath is /home/nios/Ari/HashFile/src//InputFiles/vzb_bi_306.csv
+java.io.FileNotFoundException: /home/nios/Ari/HashFile/src/InputFiles/vzb_bi_306.csv (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at java.io.FileReader.<init>(FileReader.java:58)
+	at FileReading.main(FileReading.java:27)
+
+stringPath is /home/nios/Ari/HashFile/src//InputFiles/vzb_bi_306.csv
+first line is: data_transaction_code,data_transaction_file_date,contract_number,contractor_service_request_number,contractor_invoice_level_account_number,contractor_service_level_account_number,agency_task_order_num,contracting_officer_representative_email_address,service_order_completion_date,data_transaction_line_sequence_number,agency_service_request_number_1,agency_service_request_number_2,unique_billing_identifier,agency_hierarchy_code,contract_line_item_number,clin_description,individual_case_basis_code_number,quantity,fully_loaded_price_code,charging_frequency_and_sre_element_code,charging_unit_code,base_line_item_price,iconectiv_nsc,terminating_iconectiv_nsc,building,bandwidth_code,billing_telephone_number,contractor_transport_circuit_number,phone_number_toll_free_and_700_number,card_number,alternate_code_description,directed_to_number,labor_email_address,body_detail_reserved_01,body_detail_reserved_02,body_detail_reserved_03,body_detail_reserved_04,body_detail_reserved_05,body_detail_reserved_06,body_detail_reserved_07,body_detail_reserved_08,body_detail_reserved_09,body_detail_reserved_10,body_detail_reserved_11,body_detail_reserved_12,body_detail_reserved_13,body_detail_reserved_14,body_detail_reserved_15,contractor_invoice_number,contractor_invoice_date,billing_period,billing_begin_date,billing_end_date,band_amount,service_connect_start_date_and_time,service_connect_end_date_and_time,billing_authorization_code,originating_number,originating_location_city,originating_location_state,originating_location_county,originating_location_country,originating_jurisdiction_code,terminating_number,terminating_location_city,terminating_location_state,terminating_location_county,terminating_location_country,terminating_jurisdiction_code,usage_event_id,billing_quantity,billing_reserved_01,billing_reserved_02,billing_reserved_03,billing_reserved_04,billing_reserved_05,billing_reserved_06,billing_reserved_07,billing_reserved_08,billing_reserved_09,billing_reserved_10,billing_reserved_11,billing_reserved_12,billing_reserved_13,billing_reserved_14,billing_reserved_15,agency_agf_percent_rate,contractor_charge_waiver_code,total_line_item_amount,agf_amount,billed_aggregated_tax,line_net_amount
+
+
+firstLine Values Array:[data_transaction_code, data_transaction_file_date, contract_number, contractor_service_request_number, contractor_invoice_level_account_number, contractor_service_level_account_number, agency_task_order_num, contracting_officer_representative_email_address, service_order_completion_date, data_transaction_line_sequence_number, agency_service_request_number_1, agency_service_request_number_2, unique_billing_identifier, agency_hierarchy_code, contract_line_item_number, clin_description, individual_case_basis_code_number, quantity, fully_loaded_price_code, charging_frequency_and_sre_element_code, charging_unit_code, base_line_item_price, iconectiv_nsc, terminating_iconectiv_nsc, building, bandwidth_code, billing_telephone_number, contractor_transport_circuit_number, phone_number_toll_free_and_700_number, card_number, alternate_code_description, directed_to_number, labor_email_address, body_detail_reserved_01, body_detail_reserved_02, body_detail_reserved_03, body_detail_reserved_04, body_detail_reserved_05, body_detail_reserved_06, body_detail_reserved_07, body_detail_reserved_08, body_detail_reserved_09, body_detail_reserved_10, body_detail_reserved_11, body_detail_reserved_12, body_detail_reserved_13, body_detail_reserved_14, body_detail_reserved_15, contractor_invoice_number, contractor_invoice_date, billing_period, billing_begin_date, billing_end_date, band_amount, service_connect_start_date_and_time, service_connect_end_date_and_time, billing_authorization_code, originating_number, originating_location_city, originating_location_state, originating_location_county, originating_location_country, originating_jurisdiction_code, terminating_number, terminating_location_city, terminating_location_state, terminating_location_county, terminating_location_country, terminating_jurisdiction_code, usage_event_id, billing_quantity, billing_reserved_01, billing_reserved_02, billing_reserved_03, billing_reserved_04, billing_reserved_05, billing_reserved_06, billing_reserved_07, billing_reserved_08, billing_reserved_09, billing_reserved_10, billing_reserved_11, billing_reserved_12, billing_reserved_13, billing_reserved_14, billing_reserved_15, agency_agf_percent_rate, contractor_charge_waiver_code, total_line_item_amount, agf_amount, billed_aggregated_tax, line_net_amount]
+2
+6
+26
+29
+31
+32
+48
+57
+columns to hash [2, 6, 26, 29, 31, 32, 48, 57]
+0: data_transaction_code
+1: data_transaction_file_date
+2: contract_number
+3: contractor_service_request_number
+4: contractor_invoice_level_account_number
+5: contractor_service_level_account_number
+6: agency_task_order_num
+7: contracting_officer_representative_email_address
+8: service_order_completion_date
+9: data_transaction_line_sequence_number
+10: agency_service_request_number_1
+11: agency_service_request_number_2
+12: unique_billing_identifier
+13: agency_hierarchy_code
+14: contract_line_item_number
+15: clin_description
+16: individual_case_basis_code_number
+17: quantity
+18: fully_loaded_price_code
+19: charging_frequency_and_sre_element_code
+20: charging_unit_code
+21: base_line_item_price
+22: iconectiv_nsc
+23: terminating_iconectiv_nsc
+24: building
+25: bandwidth_code
+26: billing_telephone_number
+27: contractor_transport_circuit_number
+28: phone_number_toll_free_and_700_number
+29: card_number
+30: alternate_code_description
+31: directed_to_number
+32: labor_email_address
+33: body_detail_reserved_01
+34: body_detail_reserved_02
+35: body_detail_reserved_03
+36: body_detail_reserved_04
+37: body_detail_reserved_05
+38: body_detail_reserved_06
+39: body_detail_reserved_07
+40: body_detail_reserved_08
+41: body_detail_reserved_09
+42: body_detail_reserved_10
+43: body_detail_reserved_11
+44: body_detail_reserved_12
+45: body_detail_reserved_13
+46: body_detail_reserved_14
+47: body_detail_reserved_15
+48: contractor_invoice_number
+49: contractor_invoice_date
+50: billing_period
+51: billing_begin_date
+52: billing_end_date
+53: band_amount
+54: service_connect_start_date_and_time
+55: service_connect_end_date_and_time
+56: billing_authorization_code
+57: originating_number
+58: originating_location_city
+59: originating_location_state
+60: originating_location_county
+61: originating_location_country
+62: originating_jurisdiction_code
+63: terminating_number
+64: terminating_location_city
+65: terminating_location_state
+66: terminating_location_county
+67: terminating_location_country
+68: terminating_jurisdiction_code
+69: usage_event_id
+70: billing_quantity
+71: billing_reserved_01
+72: billing_reserved_02
+73: billing_reserved_03
+74: billing_reserved_04
+75: billing_reserved_05
+76: billing_reserved_06
+77: billing_reserved_07
+78: billing_reserved_08
+79: billing_reserved_09
+80: billing_reserved_10
+81: billing_reserved_11
+82: billing_reserved_12
+83: billing_reserved_13
+84: billing_reserved_14
+85: billing_reserved_15
+86: agency_agf_percent_rate
+87: contractor_charge_waiver_code
+88: total_line_item_amount
+89: agf_amount
+90: billed_aggregated_tax
+91: line_net_amount
+2
+6
+26
+29
+31
+32
+48
+57
